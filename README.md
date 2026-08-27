@@ -1,6 +1,6 @@
-# Beecrowd Python
+# Python Studies
 
-My Python solutions and learning journey through Beecrowd problems.
+My Python solutions and learning journey through problems.
 
 ## 🎯 Goal
 
